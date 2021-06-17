@@ -1,6 +1,6 @@
 # vue-template-mobile
 
-## use vue+vant
+## Use vue+vant
 
 ## Project setup
 ```
