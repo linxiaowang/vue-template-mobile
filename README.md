@@ -1,4 +1,6 @@
-# official-account
+# vue-template-mobile
+
+## use vue+vant
 
 ## Project setup
 ```
