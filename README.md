@@ -1,5 +1,5 @@
 # vue-template-mobile
-
+vue2.x移动端开发模板
 ## Use vue+vant
 
 ## Project setup
